@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728462221624",
+    "firebase_url": "https://blockchain-app-5914d.firebaseio.com",
+    "project_id": "blockchain-app-5914d",
+    "storage_bucket": "blockchain-app-5914d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728462221624:android:3ebab11b99691a0f7221cd",
+        "android_client_info": {
+          "package_name": "com.example.orderingplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728462221624-ctab1o0es3ils1542kcbme4nso00erps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orderingplatform",
+            "certificate_hash": "9000b20c36e344ae090e857ec849c68af248ae4b"
+          }
+        },
+        {
+          "client_id": "728462221624-ohfrg4rlt40odra4uv38vp94rf87v57b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeDsap3Fx9vVoCDQE_KwbLrloDul0rc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728462221624-ohfrg4rlt40odra4uv38vp94rf87v57b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
