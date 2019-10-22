@@ -9,15 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ORDER_TRACKING"></activity>
+        <activity android:name=".SIGNUP"></activity>
+        <activity android:name=".SIGNIN" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ORDER_TRACKING" />
         <activity android:name=".TRACK_ORDER_NUMBER" />
         <activity android:name=".NEW_ORDER_CONFIRM" />
         <activity android:name=".NEW_ORDER_CUSTOMER_DETAILS" />
         <activity android:name=".NEW_ORDER_PRODUCTS" />
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".LOGIN">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
